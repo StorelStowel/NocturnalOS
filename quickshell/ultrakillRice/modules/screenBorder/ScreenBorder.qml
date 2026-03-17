@@ -9,8 +9,12 @@ import "../bar/Bar.qml"
 
 PanelWindow {
     id: root
-    implicitWidth: Screen.desktopAvailableWidth 
-    implicitHeight: Screen.desktopAvailableHeight
+    anchors {
+        right: true
+        left: true
+        top: true
+        bottom: true
+    }
     mask: Region {item: border; intersection: Intersection.Xor;}
 
     color: "transparent"
