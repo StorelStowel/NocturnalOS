@@ -1,6 +1,6 @@
 welcome to my ultrakill rice!
 
-This is a very very early beta, so for now dont expect too much.
+This is a very very early beta, so dont expect too much.
 
 for this rice you'll need to install quickshell, fastfetch, the "imgborder" hyprland plugin, and the necessary dependencies.
 
