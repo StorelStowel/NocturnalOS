@@ -20,4 +20,4 @@ to install them run the following commands (im not sure what the install command
   hyprpm enable imgborders
 ```
 
-for now the only folder i can share is the fastfetch config. by putting it in your .config folder it should work
+for now i only added the raw files to the rice, but ill edit them so that, if you want to keep some settings from your old setup, you can.
